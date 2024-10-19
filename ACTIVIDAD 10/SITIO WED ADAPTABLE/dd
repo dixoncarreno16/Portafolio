@@ -1,0 +1,43 @@
+@media only screen and (max-width: 768px) {
+    
+    #contactos {
+        height: 20vh;
+    }
+
+    #pielogo {
+        height: 25vh;
+    }
+
+    #pielogo > div {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1920px) {
+
+    #contactos {
+        height: 10vh;
+    }
+
+    #pielogo {
+        height: 20vh;
+    }
+
+    #pielogo > div {
+        flex-direction: row;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
